@@ -10,6 +10,8 @@ Plugin 'VundleVim/Vundle.vim'
 
 Bundle 'guns/vim-clojure-static'
 Bundle 'scrooloose/nerdtree'
+Bundle 'MarcWeber/vim-addon-mw-utils'
+Bundle 'garbas/vim-snipmate'
 
 " vim-scripts repos
 Bundle 'VimClojure'
